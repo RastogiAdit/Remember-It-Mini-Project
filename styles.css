@@ -26,6 +26,22 @@ body {
   border-radius: 20%;
 }
 
+ul {
+  list-style-type: none;
+}
+
+.instr-head {
+  text-align: center;
+  font-size: 2rem;
+}
+.instr {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 1rem;
+  margin:  5%;
+  color: #FEF2BF;
+  text-align: left;
+}
+
 .game-over {
   background-color: red;
   opacity: 0.8;
